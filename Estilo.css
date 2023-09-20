@@ -1,0 +1,20 @@
+.button{
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.contacto{
+    font-style: italic;
+    background-color: rgb(114, 159, 243);
+}
+
+header div ul{
+    display: inline-flex;
+}
